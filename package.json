@@ -1,0 +1,16 @@
+{
+  "name": "git-code",
+  "version": "1.0.0",
+  "main": "indax.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node indax.js"
+  },
+  "author": "Samiran Bisal",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0"
+  }
+}
